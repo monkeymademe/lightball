@@ -2,7 +2,7 @@
 
 My daughter has this star ball thing... It is supposed to project a star field at the wall. Its just a little fun... Nothing scientific... 
 
-![Image of the lightball thing](https://github.com/monkeymademe/lightball/blob/master/lightball_1.jpg | width=300)
+![Image of the lightball thing](https://github.com/monkeymademe/lightball/blob/master/lightball_1.jpg)  <!-- .element height="50%" width="50%" -->
 
 Well the inside imploded and we were left with a unit that did not work at all!
 
