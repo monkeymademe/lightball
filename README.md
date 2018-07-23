@@ -2,6 +2,8 @@
 
 My daughter has this star ball thing... It is supposed to project a star field at the wall. Its just a little fun... Nothing scientific... 
 
+![Image of the lightball thing](lightball/lightball_1.jpg)
+
 Well the inside imploded and we were left with a unit that did not work at all!
 
 So I did what any loving father would do.... I put a Raspberry Pi in it and got it working like it was before.
@@ -15,3 +17,5 @@ B is a standard button.
 A = Turn the white LED on/off
 B = Cycle through the color modes (including a fade in and out mode)
 C = Starts and stops the motor to turn the stars
+
+![Image of the lightball thing](lightball/lightball_2.jpg) ![Image of the lightball thing](lightball/lightball_3.jpg)
