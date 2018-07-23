@@ -18,4 +18,4 @@ A = Turn the white LED on/off
 B = Cycle through the color modes (including a fade in and out mode)
 C = Starts and stops the motor to turn the stars
 
-![Image of the lightball thing](lhttps://github.com/monkeymademe/lightball/blob/master/lightball_2.jpg) ![Image of the lightball thing](https://github.com/monkeymademe/lightball/blob/master/lightball_3.jpg)
+![Image of the lightball thing](https://github.com/monkeymademe/lightball/blob/master/lightball_2.jpg) ![Image of the lightball thing](https://github.com/monkeymademe/lightball/blob/master/lightball_3.jpg)
